@@ -1,0 +1,29 @@
+{
+  "name": "location-exporter-for-ig-saved-posts",
+  "version": "1.0.0",
+  "description": "Export the locations of instagram saved posts to files that can be imported into google maps.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshwc/location-exporter-for-ig-saved-posts.git"
+  },
+  "keywords": [
+    "location",
+    "ig",
+    "instagram",
+    "saved",
+    "posts"
+  ],
+  "author": "jameshwc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jameshwc/location-exporter-for-ig-saved-posts/issues"
+  },
+  "homepage": "https://github.com/jameshwc/location-exporter-for-ig-saved-posts#readme",
+  "dependencies": {
+    "instagram-private-api": "github:jameshwc/instagram-private-api"
+  }
+}
